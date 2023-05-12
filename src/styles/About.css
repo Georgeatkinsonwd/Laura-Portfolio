@@ -26,5 +26,12 @@
 .aboutText p {
     justify-content: center;
     text-align: center;
+    font-size:24px;
     padding:30px;
+}
+
+
+.aboutTitle{
+    font-size:28px;
+    text-decoration: underline;
 }

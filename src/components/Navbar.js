@@ -1,6 +1,5 @@
 import {Link} from 'react-router-dom'
 import InstagramIcon from '@mui/icons-material/Instagram';
-import FacebookIcon from '@mui/icons-material/Facebook';
 import "../styles/Navbar.css"
 
 
@@ -12,7 +11,6 @@ function Navbar() {
         <div className="title">
         <h1>Laura Jane</h1>
         <a href="https://www.instagram.com/laurajaneportfolio" target="_blank" rel="noopener noreferrer"><InstagramIcon fontSize="large"/></a>
-        <a href="/"><FacebookIcon fontSize="large"/></a>
         </div>
         <div className="navigation">
         <Link className="links" to="/">Home</Link>

@@ -9,7 +9,7 @@ function About() {
 
        
         <div className="aboutText">
-        <h3>About me</h3>
+        <h3 className="aboutTitle">About me</h3>
         <p>
         I am a North Yorkshire based artist with my practise largely based in sculpture. I love working with found objects and creating  large scale instillations. </p>
 

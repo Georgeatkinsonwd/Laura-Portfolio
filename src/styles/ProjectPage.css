@@ -45,6 +45,13 @@
 
 }
 
+.poem{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight:bold;
+    font-style: italic;
+}
+
+
 
 @media screen and (max-width: 700px) {
     .projectImage{

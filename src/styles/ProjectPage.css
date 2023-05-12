@@ -56,6 +56,6 @@
 @media screen and (max-width: 700px) {
     .projectImage{
         height: 300px;
-        width:60%;
+        width:100%;
     }
 }

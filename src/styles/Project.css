@@ -66,12 +66,13 @@
 @media screen and (max-width: 700px) {
     .projectCover{
         height:300px;
+        width:100%;
     
     }
 
     .projectAnchor{
         height:300px;
-        width:50%;
+        width:100%;
     }
   }
 

@@ -2,6 +2,7 @@ import '../styles/Project.css'
 
 function Project({imgUrl,title}) {
   return (
+  
     <a className="projectAnchor" href={title}>
     <div className="projectCover">
       

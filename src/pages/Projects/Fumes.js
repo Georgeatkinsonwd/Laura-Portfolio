@@ -12,11 +12,12 @@ function Fumes() {
         With such a recognisable structure at its foundation, the piece allows the viewer to make a strong connection with their own life. 
         </p>
           </div>
+          <div className="projectImgContainer">
         <img className="projectImage" src="https://res.cloudinary.com/dsaznciea/image/upload/v1683036488/In%20the%20Studio/Untitled_2023_image_3_w0agt2.png" alt="Water Can" />
         <img className="projectImage" src="https://res.cloudinary.com/dsaznciea/image/upload/v1683036487/In%20the%20Studio/Untitled_2023_ojwiof.png" alt="Water Can 2" />
         <img className="projectImage" src="https://res.cloudinary.com/dsaznciea/image/upload/v1683036480/In%20the%20Studio/Untitled_2023_image_2_d82kem.png" alt="Water Can 3" />
         <img className="projectImage" src="https://res.cloudinary.com/dsaznciea/image/upload/v1683036479/In%20the%20Studio/Untitled_2023_image_4_rzqahv.png" alt="Water can 4" />
-        
+        </div>
 
     </div>
   )

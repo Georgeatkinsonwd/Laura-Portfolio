@@ -20,10 +20,11 @@ function MessageInABottle() {
         <span className="poem">Sending a message</span>
         
         </div>
+        <div className="projectImgContainer">
         <img className="projectImage" src="https://res.cloudinary.com/dsaznciea/image/upload/v1683036198/Message%20in%20a%20Bottle/Picture10_lbqa40.jpg" alt="bottle 1" />
         <img className="projectImage" src="https://res.cloudinary.com/dsaznciea/image/upload/v1683036197/Message%20in%20a%20Bottle/Picture7_br8cpw.png" alt="bottle 2" />
         <img className="projectImage" src="https://res.cloudinary.com/dsaznciea/image/upload/v1683036194/Message%20in%20a%20Bottle/Picture11_stkfsd.png" alt="bottle 3" />
-        
+        </div>
     </div>
   )
 }
